@@ -5,6 +5,7 @@
 * License: https://creativecommons.org/licenses/by/3.0/
 */
 body {
+  cursor: url(../images/cursor.png), auto; 
   font-family: "PT Mono", monospace;
   line-height: 1.6;
   background: #EBEAEC;
@@ -213,7 +214,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .site-nav a {
     position: relative;
     z-index: 9;
-    cursor: pointer; }
+    cursor: url(../images/cursor.png), auto }
 
 .site-nav {
   padding-top: 20px;
