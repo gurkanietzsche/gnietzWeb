@@ -804,7 +804,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     width: 90px;
     height: 20px; }
   .wave path {
-    stroke: #0389ff;
+    stroke: #ff00aa;
     stroke-width: 2px;
     stroke-linecap: round;
     fill: none; }
@@ -1654,7 +1654,7 @@ figure.dotted-bg {
       width: 30px;
       height: 30px;
       position: relative;
-      background: #0389ff;
+      background: #ff00aa;
       border-radius: 50%;
       color: #ffffff; }
       .site-footer .social li a:before {
