@@ -1,8 +1,7 @@
 /*
-* Template Name: Space
-* Template Author: Untree.co
-* Author URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
+* Template Name: gnietz.
+* Template Author: gnietz.
+* Author URI: gnietz.com
 */
 body {
   cursor: url(../images/cursor.png), auto; 
@@ -1781,5 +1780,26 @@ figure.dotted-bg {
           float: right;
           float: top;
         }
+
+        .about-article{
+          display: relative;
+          padding-top: 100px;
+          padding-bottom: 50px;
+
+          
+        }
+
+        .about-img{
+          float: right;
+          max-width: 100%;
+          height: auto;
+        }
+
+        .about-img:hover{
+          box-shadow: #ff00aa17 0px 54px 55px, #ff00aa17 0px -12px 30px, #ff00aa17 0px 4px 6px, #ff00aa17 0px 12px 13px, #ff00aa17 0px -3px 5px;
+        }
         
+        .about-container{
+          
+        }
       
