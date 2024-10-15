@@ -1218,6 +1218,7 @@ figure.dotted-bg {
     -o-transition: .3s all ease;
     transition: .3s all ease; }
     .portfolio-item .overlay, .portfolio-item .overlay:before, .blog-item .overlay, .blog-item .overlay:before {
+      cursor: url(../images/cursor.png), auto;
       position: absolute;
       top: 0;
       left: 0;
